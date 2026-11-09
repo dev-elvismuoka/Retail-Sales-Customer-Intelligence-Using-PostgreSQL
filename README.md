@@ -19,5 +19,5 @@ To run this project locally, you need PostgreSQL installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<dev-elvismuoka>/retail-sales-sql.git
+   git clone [https://github.com/](https://github.com/)<dev-elvismuoka>/Retail-Sales-Customer-Intelligence-Using-PostgreSQL.git
    cd retail-sales-sql
